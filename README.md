@@ -29,18 +29,22 @@ This program was designed for salons to keep record of their clients along with 
 ### Installation
 
 1. Clone the repository
+
 2. Navigate to the project directory
 ```javaScript
 git clone git@github.com:nikkilittle13/python-p3-final-project.git
 ```
+
 3. Change to the project directory
 ```javaScript
 cd python-p3-final-project
 ```
-4. Instal dependencies using pipenv
+
+4. Install dependencies using pipenv
 ```javascript
 pipenv install
 ```
+
 5. Activate the virtual environment
 ```javascript
 pipenv shell
@@ -54,11 +58,13 @@ pipenv shell
 ```javascript
 python lib/cli.py
 ```
+
 - Navigate through the menu to perform actions 
 
 ---
 
 ## License
+
 This project is licensed under the MIT License.
 
 ---
