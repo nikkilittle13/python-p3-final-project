@@ -84,6 +84,8 @@ def client_choices():
 
 def menu():
     print()
+    print("The Salon")
+    print()
     print("Please select an option:")
     print("0. Exit the program")
     print("1. Stylist Menu")
